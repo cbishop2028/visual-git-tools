@@ -1,0 +1,3 @@
+Change prices to account for a diet coke: checkout.py
+Change README.md to allow for fun message: README.md
+

@@ -1,0 +1,7 @@
+Line under investigation:
+return total * 0.8
+commit ID: 5ade055c
+Author: cbishop
+Commit message: Change ckecout.py to multiply total by 0.8
+
+This shows that the line under investigation has the same commit ID as the latest commit.

@@ -1,0 +1,6 @@
+"Main review note." and "Feature review note." were the conflicting lines.
+
+"Main review note.
+Feature review note." was the final content.
+
+The merge commit message was "Fixed README.md"
