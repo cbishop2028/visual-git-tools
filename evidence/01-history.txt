@@ -1,0 +1,7 @@
+https://github.com/cbishop2028/visual-git-tools
+
+branch names: main and visual-tools
+
+"checkout.py update" and "Improved documentation"
+
+This graph shows that checkout.py and improved documentation are both only on the visual-tools branch. HEAD is pointing to the visual-tools branch.
